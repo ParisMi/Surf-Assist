@@ -5,6 +5,14 @@ It uses an extensible log parsing system to record and anaylze events occuring i
 
 It (will) track your personal records, world records, and map comments for every map you visit with it running or can be ran after playing to update your logs to the latest session.
 
+###Usage
+
+Download surf-assist.jar when it is released.
+
+Go to the settings tab and enter in your Steam nickname exactly as it appears.
+
+Select TF2 in your library, right click -> properties -> general -> set launch options... -> add the line "-condebug". This enables proper logging.
+
 ### Features
 **Not fully functional in current release. Here is a list of currently implemented functions:**
 
@@ -23,6 +31,8 @@ Read and update your map times from your gameplay session while you are playing 
 Will ping surf servers and track players and maps played, with notifications.
 
 Timer -- tracks and will notify you when a map change occurs (because some maps just suck!)
+
+Settings tab.
 
 **Currently does not allow username changes.**
 
