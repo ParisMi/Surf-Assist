@@ -11,7 +11,7 @@ Download surf-assist.jar when it is released.
 
 Go to the settings tab and enter in your Steam nickname exactly as it appears.
 
-Select TF2 in your library, right click -> properties -> general -> set launch options... -> add the line "-condebug". This enables proper logging.
+Select TF2 in your library, right click -> properties -> general -> set launch options... -> add the line "-condebug". This enables proper logging. Start up this program and run it while you are playing or right after (either will properly update your server times).
 
 ### Features
 **Not fully functional in current release. Here is a list of currently implemented functions:**
